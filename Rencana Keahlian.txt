@@ -1,0 +1,5 @@
+Memahami Konsep Git & GutHub
+Memahami HTML - CSS
+Memahami Framework
+Memahami Total Web Programing
+Memahami Python
